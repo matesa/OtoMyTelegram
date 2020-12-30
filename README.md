@@ -8,7 +8,7 @@ Telegram içersinde kolayca Apı ıd ve Apı hash almanıza yardımcı olan bot.
 
 #### Kolay yol
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)] (https://heroku.com/deploy?template=https://github.com/matesa/OtoMyTelegram)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)](https://heroku.com/deploy?template=https://github.com/matesa/OtoMyTelegram)
 
 
 #### Eski Yol
