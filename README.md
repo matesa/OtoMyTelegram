@@ -67,4 +67,4 @@ my.telegram.org'un nasıl hurdaya çıkarıldığını görmek için dizine bak�
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Teşekkürler:
-  - [! [Poyraz](https://telegram.dog/poyraz2103)]
+  -  [Poyraz](https://telegram.dog/poyraz2103)
